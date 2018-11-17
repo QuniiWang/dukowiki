@@ -1,6 +1,5 @@
 {
     "name": "dokuwiki/dukowiki",
-    "description": "dukowiki",
     "license": "MIT",
     "keywords": ["message queue"],
     "version": "1.0.0",
